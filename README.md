@@ -9,4 +9,4 @@ For my concept, this car can move and can be control by person. I want to use wi
 
 
 
-<img src=" https://github.com/ShuoCCA/final-work-ldeas/blob/master/concept.jpg?raw=true">
+[img] https://github.com/ShuoCCA/final-work-ldeas/blob/master/concept.jpg?raw=true"[/img]
